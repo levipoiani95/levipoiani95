@@ -7,7 +7,7 @@
 
 ✔ Self taught
 
-<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/bc9e3c03-af41-4803-945c-f3f48b745262" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bc9e3c03-af41-4803-945c-f3f48b745262" />
 
 <!--
 **levipoiani95/levipoiani95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
