@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## 👨🏻‍💻 About me
+🔭 I’m currently working on Data Science
+✔ Control and Automation Engineer at UNESP-Campus Sorocaba
+✔ Data Science Student
+✔ Machine Learning enthusiast
+✔ Self taught
 <!--
 **levipoiani95/levipoiani95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
