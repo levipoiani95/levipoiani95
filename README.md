@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 About me
-✔ Control and Automation Engineer at UNESP-Campus Sorocaba-SP (Brazil)
+✔ Control and Automation Engineer at UNESP, Campus Sorocaba-SP (Brazil)
 
 ✔ Data Science Student
 
