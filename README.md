@@ -8,7 +8,7 @@
 
 ✔ Self taught
 
-🔎 You can find my profile at this link:
+🔎 You can find my profile at this link below:
 
 
 [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bc9e3c03-af41-4803-945c-f3f48b745262" />](https://www.linkedin.com/in/levi-poiani/)
